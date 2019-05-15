@@ -1,9 +1,9 @@
-<p align="center"><img alt="Brick" src="https://avatars2.githubusercontent.com/u/34621716?v=4"></p><h2 align="center">
-Brick
+<p align="center"><img alt="Brick技术博客" src="https://avatars2.githubusercontent.com/u/34621716?v=4"></p><h2 align="center">
+Brick技术博客
 </h2>
 
 <h4 align="center">记录精彩的程序人生</h4>
-<p align="center"><a title="Brick" target="_blank" href="https://github.com/zhangzhanhang/solo-blog"><img src="https://img.shields.io/github/last-commit/zhangzhanhang/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="Brick技术博客" target="_blank" href="https://github.com/zhangzhanhang/solo-blog"><img src="https://img.shields.io/github/last-commit/zhangzhanhang/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/zhangzhanhang/solo-blog"><img src="https://img.shields.io/github/repo-size/zhangzhanhang/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/zhangzhanhang/solo-blog.svg"></a></p>
